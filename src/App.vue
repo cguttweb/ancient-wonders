@@ -27,4 +27,14 @@ import Footer from './components/Footer.vue'
   margin-top: 60px;
 }
 
+main {
+  line-height: 1.4rem;
+  margin: auto;
+  max-width: 60%;
+}
+
+/* main p {
+  text-align: left;
+} */
+
 </style>

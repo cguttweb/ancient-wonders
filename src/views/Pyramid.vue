@@ -1,7 +1,9 @@
 <template>
-    <div>
+    <main>
         <h1>The Great Pyramid at Giza</h1>
-    </div>
+        <p>The only ancient wonder still standing, it was built for the pharaoh Khufu between 2584 and 2561BCE and remained the tallest structure in the world for 4000 years. It covers 13 acres of land and is believed to contain 2 million stone blocks weighing c.2-30 tons each. The sloped walls were intended to represent the beams of light from the sun God Ra, they were initially worked as steps, and after that limestone used to fill them. (The 3 pyramids of Khufu, Khafre and Menkaure were built between c.2700-2500BCE.) </p>
+        <p>The exploration of the inside of the pyramid only started in late 18th to mid-19th century prior to that it was th external structure with its symmetry and sheer size appealing to ancient travellers.</p>
+    </main>
 </template>
 
 <script>
