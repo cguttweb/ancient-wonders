@@ -20,15 +20,11 @@ export default {
 <style scoped>
 
 footer {
+  background-color: #2c3e50;
+  color: #ffffff;
   display: flex;
   justify-content: center;
 }
-
-p {
-  bottom: 0;
-  position: absolute;
-}
-
 
 img {
   width: 20px;
